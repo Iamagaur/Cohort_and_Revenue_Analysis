@@ -1,4 +1,4 @@
-Data Intern Assignment – Revenue & Cohort Analysis
+Revenue & Cohort Analysis
 Overview
 
 This project analyzes subscription and charge data to answer two business questions:
@@ -48,8 +48,3 @@ Top two selling products
 
 Underperforming products with brief explanations
 
-This provides a clear view of recent product-level performance.
-
-├── notebook.ipynb        # Jupyter notebook with full analysis
-├── Assignment_Results.xlsx  # Output tables (cohorts, cancellations, products)
-├── README.md             # Project overview
